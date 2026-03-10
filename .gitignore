@@ -1,0 +1,27 @@
+# Entorno virtual
+.venv/
+qr-env/
+
+# Archivos generados
+QRS_GENERADOS/
+
+# Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
